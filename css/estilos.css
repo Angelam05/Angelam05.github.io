@@ -1,9 +1,13 @@
 p { 
-    color: red; 
+    color: rgb(241, 12, 138); 
 }
 body {
     background-color: rgb(16, 16, 31);
 }
 h1 {
 color: aliceblue;
+}
+
+h2 {
+    color:rgb(0, 245, 163);
 }
